@@ -1,0 +1,100 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    width: 1350px;
+    background-color: rgb(65, 65, 235);
+}
+.heading{
+    margin-left: 43px;
+    font-size: 20px;
+    font-weight: 600;
+}
+h2{
+    margin-bottom: 45px;
+}
+p{
+    margin-bottom: 0;
+    margin-top:30px;
+    color: #7c7b7b;
+}
+form{
+    margin-top: 42px;
+    margin-left:33.3%;
+    background-color: #ffff;
+    border: 1px solid #0000;
+    height: 749px;
+    width: 1000px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.first-line{
+    margin-top: 28px ;
+}
+.second-line{
+    margin-top: 30px ;
+}
+.third-line{
+    margin-top: 30px ;
+}
+.fourth-line{
+    margin-top: 30px ;
+}
+.name{
+    color: #4b4949;
+    margin-left: 42px;
+    margin-right: 165px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.names{
+    margin-left: 44px;
+}
+input[type=text]{
+    outline: none;
+    margin-top: 12px;
+    margin-right: 25px;
+    padding: 14px 30px;
+    border-radius: 5px;
+    border-color: #4e4e4e;
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 0.5;
+}
+#dob{
+    margin-left:66px;
+}
+#em{
+    margin-left:41px;
+}
+#gen{
+    margin-left: 81px;
+}
+#occ{
+    margin-left:87px;
+}
+#iss{
+    margin-left:62px;
+}
+#isss{
+    margin-left:62px;
+}
+#expd{
+    margin-left:56px;
+}
+#ID{
+    margin-left: 81px;
+}
+
+button{
+    border-radius: 7px;
+    padding: 12px 111px;
+    margin-top: 38px;
+    margin-left: 42px;
+    background-color: rgb(18, 18, 255);
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: 500;
+    border: none;
+}
+.second-line #name.name{
+    margin-right: 107px;
+}

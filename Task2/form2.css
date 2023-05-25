@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(22, 22, 22);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.container{
+    margin-left: 29%;
+    height:623px;
+    color: aliceblue;
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 600px;
+    border: 1px solid  black;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: 500;
+}
+.check{
+    display: inline-block;
+}
+button{
+    margin-left: 40%;
+    padding: 8px 17px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(108, 108, 224);
+    color: #ffff;
+    font-weight: 900;
+    font-size: 15px;
+}
+.reset{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 73px;
+}
+.contact{
+    margin-left: 85px;
+}
+.terms{
+    margin-top: 61px;
+    margin-left: 73px;
+}
+.terms a{
+    font-size: 13px;
+    margin-left: 82px;
+}
+.mail{
+    display: inline-block;
+    margin-top: 57px;
+}
+.pw{
+    display: inline-block;
+    margin-top: 20px;
+}
+.tm{
+    font-size: 12px;
+    margin-top: 0;
+    margin-left: 90px;
+}
+img{
+    margin-left: 130px;
+    margin-top: 22px;
+}
+input{
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 119px;
+}
+
+.block{
+    margin-left: 83px;
+    width: 433px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
